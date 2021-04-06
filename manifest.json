@@ -8,11 +8,11 @@
 		"512": "icon/512.png"
 	},
 	"default_locale": "en",
-	"name": "Universal Bypass",
-	"description": "__MSG_appDesc__",
+	"name": "idk",
+	"description": "ThangryYT",
 	"homepage_url": "https://universal-bypass.org/",
-	"version": "13.15.2",
-	"author": "Sainan",
+	"version": "14.15.2",
+	"author": "Thangry",
 	"permissions": [
 		"alarms",
 		"storage",
